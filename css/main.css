@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1
+{
+	font-size: 30px;
+	text-align: center;
+}
+
+p
+{
+	font-size: 20px;
+	text-align: center;
+}
+
+#cloudSvg h1
+{
+	color: deepskyblue;
+}
+
+
+#cloudSvg p
+{
+	color: skyblue;
+}
+
+#cloudSvg img
+{
+	filter: grayscale(100%);
+}
+
+#cloudSvg img:hover
+{
+	filter: grayscale(0%);
+}
+
+#checkSvg
+{
+	color: limegreen;
+}
+
+#houseSvg
+{
+	color: firebrick;
+}
+
+#infoSvg
+{
+	color: blue;
+}
+
+#pauseSvg
+{
+	color: black;
+}
+
+#phoneSvg
+{
+	color: dimgrey;
+}
+
+#playSvg
+{
+	color: darkred;
+}
+
+#questionMarkSvg
+{
+	color: orangered;
+}
+
+#searchSvg
+{
+	color: saddlebrown;
+}
+
+#closeSvg
+{
+	color: red;
+}
+
+#Layer_1
+{
+	filter: grayscale(100%);
+}
